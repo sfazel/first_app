@@ -1,3 +1,7 @@
+THis is the First_app Project using Ruby on Rails Tutorial by Michael Hartel.
+
+This is an Improved READMET file 
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
